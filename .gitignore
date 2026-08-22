@@ -1,0 +1,27 @@
+# Python Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Raw Data
+dataset/
+dataset_clean.zip
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
